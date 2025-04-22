@@ -1,0 +1,6 @@
+# Ignorar el entorno virtual
+chat-env/
+
+# Ignorar archivos de configuración específicos del sistema operativo
+.DS_Store
+Thumbs.db
